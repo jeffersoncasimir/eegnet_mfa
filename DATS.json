@@ -1,0 +1,220 @@
+{
+  "title": "Medio-Frontal Attention Control",
+  "description": "Theta oscillations in the EEG have been linked to several ERPs that are elicited during performance-monitoring tasks, including the error-related negativity (ERN), no-go N2, and the feedback-related negativity (FRN). We used a novel paradigm to isolate independent components (ICs) in single subjects' (n = 27) EEG accounting for a medial frontal negativity (MFN) to response cue stimuli that signal a potential change in future response demands. Medial frontal projecting ICs that were sensitive to these response cues also described the ERNs, no-go N2s, and, to a lesser extent, the FRNs, that were elicited in letter flanker, go/no-go, and time-estimation tasks, respectively. In addition, percentile bootstrap tests using trimmed means indicated that the medial frontal ICs show an increase in theta activity during the ERN, no-go N2, and FRN across tasks and within individuals. Our results provide an important validation of previous studies by showing that increases in medial frontal theta to cognitively challenging events in multiple paradigms is a reliable effect within individuals and can be elicited by basic stimulus cues that signal the potential need to adjust response control. Thus, medial frontal theta reflects a neural response common to all MFN paradigms and characterizes the general process of controlling attention without the need to induce error commission, inhibited responses, or to present negative feedback.",
+  "creators": [
+    {
+      "abbreviation": "",
+      "fullName": "",
+      "firstName": "Stefon",
+      "middleInitial": "J.R.",
+      "lastName": "Van Noordt",
+      "email": "stefon.vannoordt@msvu.ca",
+      "affiliations": [
+        {
+          "name": "Mount Saint Vincent University"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0001-8413-1320"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fullName": "Allan Campopiano",
+      "firstName": "Allan",
+      "lastName": "Campopiano",
+      "roles": [
+        {
+          "value": "Contributor"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0002-3280-4447"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fullName": "Sid Segalowitz",
+      "firstName": "Sid",
+      "lastName": "Segalowitz",
+      "email": "ssegalowitz@brocku.ca",
+      "roles": [
+        {
+          "value": "Contributor"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0003-4684-9846"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "EEG"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "ODbL"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "EDF"
+      ],
+      "size": 24,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://portal.cbrain.mcgill.ca/userfiles/4974890",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "A functional classification of medial frontal negativity ERPs: Theta oscillations and single subject effects",
+      "publicationVenue": "Psychophysiology",
+      "authors": [],
+      "dates": [],
+      "identifier": {
+        "identifier": "https://onlinelibrary.wiley.com/doi/10.1111/psyp.12689",
+        "identifierSource": ""
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Medial frontal cortex"
+    },
+    {
+      "value": "Theta"
+    },
+    {
+      "value": "Performance monitoring"
+    },
+    {
+      "value": "Independent component analysis"
+    },
+    {
+      "value": "Robust estimation"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "275"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Brock University"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "St. Catharines"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Stefon van Noordt, stefon.vannoordt@msvu.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that local law or a relevant institutional authorization otherwise enables the deposit of these data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
