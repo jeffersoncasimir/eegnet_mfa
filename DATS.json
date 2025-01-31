@@ -196,6 +196,14 @@
         }
       ]
     },
+	{
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "EEGnet"
+                }
+            ]
+        },
     {
       "category": "logo",
       "values": [
