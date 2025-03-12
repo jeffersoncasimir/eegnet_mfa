@@ -205,6 +205,14 @@
             ]
         },
     {
+      "category": "registrationPage",
+      "values": [
+        {
+          "value": "https://eegnet.loris.ca/"
+        }
+      ]
+    },
+    {
       "category": "logo",
       "values": [
         {
