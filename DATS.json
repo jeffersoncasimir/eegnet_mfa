@@ -95,7 +95,7 @@
         "value": "GB"
       },
       "access": {
-        "landingPage": "https://portal.cbrain.mcgill.ca/userfiles/4974890",
+        "landingPage": "https://eegnet.loris.ca",
         "authorizations": [
           {
             "value": "registered"
